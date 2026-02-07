@@ -1,0 +1,6 @@
+// Configuration format StellairSQL
+
+//Ce format execute et concatene les arguments avant l'execution principale.
+
+npm | install | -g | @angular/cli@1.7.4 | exec
+
